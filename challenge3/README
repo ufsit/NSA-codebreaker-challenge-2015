@@ -1,0 +1,13 @@
+Congratualtions on figuring out how to read our advisaries encoded 
+messages. Are agents would like you to try and extend our capabilities.
+
+Rather than just read intercepted messages, our agents would like to 
+create create spoofed messages.
+
+
+To win this challenge write a program that can be used to encode the following message using the provided public private key pair. 
+
+[Message: Sir, Good news! We have developed a capability to encode secret messages to help with OPERATION avhtretp8s1crym9jjcp. We are ready for our final tasking. VR, Codebreaker 3473259]
+
+Encode the message into the template file provided. Do not include the 
+brackets in the message.

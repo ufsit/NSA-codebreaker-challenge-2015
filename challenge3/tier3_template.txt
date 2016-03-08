@@ -1,0 +1,1006 @@
+325.--AN EPISCOPAL VISITATION.
+
+[Illustration]
+
+In the diagram I show how the bishop may be made to visit every one of
+his white parishes in seventeen moves. It is obvious that we must start
+from one corner square and end at the one that is diagonally opposite to
+it. The puzzle cannot be solved in fewer than seventeen moves.
+
+
+326.--A NEW COUNTER PUZZLE.
+
+Play as follows: 2--3, 9--4, 10--7, 3--8, 4--2, 7--5, 8--6, 5--10, 6--9,
+2--5, 1--6, 6--4, 5--3, 10--8, 4--7, 3--2, 8--1, 7--10. The white
+counters have now changed places with the red ones, in eighteen moves,
+without breaking the conditions.
+
+
+327.--A NEW BISHOP'S PUZZLE.
+
+[Illustration: A]
+
+[Illustration: B]
+
+Play as follows, using the notation indicated by the numbered squares in
+Diagram A:--
+
+      White.   |   Black.   |   White.    |    Black.
+    1. 18--15  |  1. 3--6   | 10. 20--10  |  10. 1--11
+    2. 17--8   |  2. 4--13  | 11. 3--9    |  11. 18--12
+    3. 19--14  |  3. 2--7   | 12. 10--13  |  12. 11--8
+    4. 15--5   |  4. 6--16  | 13. 19--16  |  13. 2--5
+    5. 8--3    |  5. 13-18  | 14. 16--1   |  14. 5--20
+    6. 14--9   |  6. 7--12  | 15. 9--6    |  15. 12--15
+    7. 5--10   |  7. 16-11  | 16. 13-7    |  16. 8--14
+    8. 9--19   |  8. 12--2  | 17. 6--3    |  17. 15-18
+    9. 10--4   |  9. 11-17  | 18. 7--2    |  18. 14--19
+
+Diagram B shows the position after the ninth move. Bishops at 1 and 20
+have not yet moved, but 2 and 19 have sallied forth and returned. In the
+end, 1 and 19, 2 and 20, 3 and 17, and 4 and 18 will have exchanged
+places. Note the position after the thirteenth move.
+
+328.--THE QUEEN'S TOUR.
+
+[Illustration]
+
+The annexed diagram shows a second way of performing the Queen's Tour.
+If you break the line at the point J and erase the shorter portion of
+that line, you will have the required path solution for any J square. If
+you break the line at I, you will have a non-re-entrant solution
+starting from any I square. And if you break the line at G, you will
+have a solution for any G square. The Queen's Tour previously given may
+be similarly broken at three different places, but I seized the
+opportunity of exhibiting a second tour.
+
+
+329.--THE STAR PUZZLE.
+
+The illustration explains itself. The stars are all struck out in
+fourteen straight strokes, starting and ending at a white star.
+
+[Illustration]
+
+
+330.--THE YACHT RACE.
+
+The diagram explains itself. The numbers will show the direction of the
+lines in their proper order, and it will be seen that the seventh course
+ends at the flag-buoy, as stipulated.
+
+[Illustration]
+
+
+331.--THE SCIENTIFIC SKATER.
+
+In this case we go beyond the boundary of the square. Apart from that,
+the moves are all queen moves. There are three or four ways in which it
+can be done.
+
+Here is one way of performing the feat:--
+
+[Illustration]
+
+It will be seen that the skater strikes out all the stars in one
+continuous journey of fourteen straight lines, returning to the point
+from which he started. To follow the skater's course in the diagram it
+is necessary always to go as far as we can in a straight line before
+turning.
+
+
+332.--THE FORTY-NINE STARS.
+
+The illustration shows how all the stars may be struck out in twelve
+straight strokes, beginning and ending at a black star.
+
+[Illustration]
+
+
+333.--THE QUEEN'S JOURNEY.
+
+The correct solution to this puzzle is shown in the diagram by the dark
+line. The five moves indicated will take the queen the greatest distance
+that it is possible for her to go in five moves, within the conditions.
+The dotted line shows the route that most people suggest, but it is not
+quite so long as the other. Let us assume that the distance from the
+centre of any square to the centre of the next in the same horizontal or
+vertical line is 2 inches, and that the queen travels from the centre of
+her original square to the centre of the one at which she rests. Then
+the first route will be found to exceed 67.9 inches, while the dotted
+route is less than 67.8 inches. The difference is small, but it is
+sufficient to settle the point as to the longer route. All other routes
+are shorter still than these two.
+
+[Illustration]
+
+
+334.--ST. GEORGE AND THE DRAGON.
+
+We select for the solution of this puzzle one of the prettiest designs
+that can be formed by representing the moves of the knight by lines from
+square to square. The chequering of the squares is omitted to give
+greater clearness. St. George thus slays the Dragon in strict accordance
+with the conditions and in the elegant manner we should expect of him.
+
+[Illustration: St. George and the Dragon.]
+
+
+335.--FARMER LAWRENCE'S CORNFIELDS.
+
+There are numerous solutions to this little agricultural problem. The
+version I give in the next column is rather curious on account of the
+long parallel straight lines formed by some of the moves.
+
+[Illustration: Farmer Lawrence's Cornfields.]
+
+
+336.--THE GREYHOUND PUZZLE.
+
+There are several interesting points involved in this question. In the
+first place, if we had made no stipulation as to the positions of the
+two ends of the string, it is quite impossible to form any such string
+unless we begin and end in the top and bottom row of kennels. We may
+begin in the top row and end in the bottom (or, of course, the reverse),
+or we may begin in one of these rows and end in the same. But we can
+never begin or end in one of the two central rows. Our places of
+starting and ending, however, were fixed for us. Yet the first half of
+our route must be confined entirely to those squares that are
+distinguished in the following diagram by circles, and the second half
+will therefore be confined to the squares that are not circled. The
+squares reserved for the two half-strings will be seen to be symmetrical
+and similar.
+
+The next point is that the first half-string must end in one of the
+central rows, and the second half-string must begin in one of these
+rows. This is now obvious, because they have to link together to form
+the complete string, and every square on an outside row is connected by
+a knight's move with similar squares only--that is, circled or
+non-circled as the case may be. The half-strings can, therefore, only be
+linked in the two central rows.
+
+[Illustration]
+
+Now, there are just eight different first half-strings, and consequently
+also eight second half-strings. We shall see that these combine to form
+twelve complete strings, which is the total number that exist and the
+correct solution of our puzzle. I do not propose to give all the routes
+at length, but I will so far indicate them that if the reader has
+dropped any he will be able to discover which they are and work them out
+for himself without any difficulty. The following numbers apply to those
+in the above diagram.
+
+The eight first half-strings are: 1 to 6 (2 routes); 1 to 8 (1 route);
+1 to 10 (3 routes); 1 to 12 (1 route); and 1 to 14 (1 route). The eight
+second half-strings are: 7 to 20 (1 route); 9 to 20 (1 route); 11 to 20
+(3 routes); 13 to 20 (1 route); and 15 to 20 (2 routes). Every different
+way in which you can link one half-string to another gives a different
+solution. These linkings will be found to be as follows: 6 to 13 (2
+cases); 10 to 13 (3 cases); 8 to 11 (3 cases); 8 to 15 (2 cases); 12 to
+9 (1 case); and 14 to 7 (1 case). There are, therefore, twelve different
+linkings and twelve different answers to the puzzle. The route given in
+the illustration with the greyhound will be found to consist of one of
+the three half-strings 1 to 10, linked to the half-string 13 to 20. It
+should be noted that ten of the solutions are produced by five
+distinctive routes and their reversals--that is, if you indicate these
+five routes by lines and then turn the diagrams upside down you will get
+the five other routes. The remaining two solutions are symmetrical
+(these are the cases where 12 to 9 and 14 to 7 are the links), and
+consequently they do not produce new solutions by reversal.
+
+
+337.--THE FOUR KANGAROOS.
+
+[Illustration]
+
+A pretty symmetrical solution to this puzzle is shown in the diagram.
+Each of the four kangaroos makes his little excursion and returns to his
+corner, without ever entering a square that has been visited by another
+kangaroo and without crossing the central line. It will at once occur to
+the reader, as a possible improvement of the puzzle, to divide the board
+by a central vertical line and make the condition that this also shall
+not be crossed. This would mean that each kangaroo had to confine
+himself to a square 4 by 4, but it would be quite impossible, as I shall
+explain in the next two puzzles.
+
+
+338.--THE BOARD IN COMPARTMENTS.
+
+[Illustration]
+
+In attempting to solve this problem it is first necessary to take the
+two distinctive compartments of twenty and twelve squares respectively
+and analyse them with a view to determining where the necessary points
+of entry and exit lie. In the case of the larger compartment it will be
+found that to complete a tour of it we must begin and end on two of the
+outside squares on the long sides. But though you may start at any one
+of these ten squares, you are restricted as to those at which you can
+end, or (which is the same thing) you may end at whichever of these you
+like, provided you begin your tour at certain particular squares. In the
+case of the smaller compartment you are compelled to begin and end at
+one of the six squares lying at the two narrow ends of the compartments,
+but similar restrictions apply as in the other instance. A very little
+thought will show that in the case of the two small compartments you
+must begin and finish at the ends that lie together, and it then
+follows that the tours in the larger compartments must also start and
+end on the contiguous sides.
+
+In the diagram given of one of the possible solutions it will be seen
+that there are eight places at which we may start this particular tour;
+but there is only one route in each case, because we must complete the
+compartment in which we find ourself before passing into another. In any
+solution we shall find that the squares distinguished by stars must be
+entering or exit points, but the law of reversals leaves us the option
+of making the other connections either at the diamonds or at the
+circles. In the solution worked out the diamonds are used, but other
+variations occur in which the circle squares are employed instead. I
+think these remarks explain all the essential points in the puzzle,
+which is distinctly instructive and interesting.
+
+
+339.--THE FOUR KNIGHTS' TOURS.
+
+[Illustration]
+
+It will be seen in the illustration how a chessboard may be divided into
+four parts, each of the same size and shape, so that a complete
+re-entrant knight's tour may be made on each portion. There is only one
+possible route for each knight and its reversal.
+
+
+340.--THE CUBIC KNIGHT'S TOUR.
+
+[Illustration]
+
+If the reader should cut out the above diagram, fold it in the form of a
+cube, and stick it together by the strips left for that purpose at the
+edges, he would have an interesting little curiosity. Or he can make one
+on a larger scale for himself. It will be found that if we imagine the
+cube to have a complete chessboard on each of its sides, we may start
+with the knight on any one of the 384 squares, and make a complete tour
+of the cube, always returning to the starting-point. The method of
+passing from one side of the cube to another is easily understood, but,
+of course, the difficulty consisted in finding the proper points of
+entry and exit on each board, the order in which the different boards
+should be taken, and in getting arrangements that would comply with the
+required conditions.
+
+
+341.--THE FOUR FROGS.
+
+The fewest possible moves, counting every move separately, are sixteen.
+But the puzzle may be solved in seven plays, as follows, if any number
+of successive moves by one frog count as a single play. All the moves
+contained within a bracket are a single play; the numbers refer to the
+toadstools: (1--5), (3--7, 7--1), (8--4, 4--3, 3--7), (6--2, 2--8, 8--4,
+4--3), (5--6, 6--2, 2--8), (1--5, 5--6), (7--1).
+
+This is the familiar old puzzle by Guarini, propounded in 1512, and I
+give it here in order to explain my "buttons and string" method of
+solving this class of moving-counter problem.
+
+Diagram A shows the old way of presenting Guarini's puzzle, the point
+being to make the white knights change places with the black ones. In
+"The Four Frogs" presentation of the idea the possible directions of the
+moves are indicated by lines, to obviate the necessity of the reader's
+understanding the nature of the knight's move in chess. But it will at
+once be seen that the two problems are identical. The central square
+can, of course, be ignored, since no knight can ever enter it. Now,
+regard the toadstools as buttons and the connecting lines as strings, as
+in Diagram B. Then by disentangling these strings we can clearly present
+the diagram in the form shown in Diagram C, where the relationship
+between the buttons is precisely the same as in B. Any solution on C
+will be applicable to B, and to A. Place your white knights on 1 and 3
+and your black knights on 6 and 8 in the C diagram, and the simplicity
+of the solution will be very evident. You have simply to move the
+knights round the circle in one direction or the other. Play over the
+moves given above, and you will find that every little difficulty has
+disappeared.
+
+[Illustrations: A B C D E]
+
+In Diagram D I give another familiar puzzle that first appeared in a
+book published in Brussels in 1789, _Les Petites Aventures de Jerome
+Sharp_. Place seven counters on seven of the eight points in the
+following manner. You must always touch a point that is vacant with a
+counter, and then move it along a straight line leading from that point
+to the next vacant point (in either direction), where you deposit the
+counter. You proceed in the same way until all the counters are placed.
+Remember you always touch a vacant place and slide the counter from it
+to the next place, which must be also vacant. Now, by the "buttons and
+string" method of simplification we can transform the diagram into E.
+Then the solution becomes obvious. "Always move _to_ the point that you
+last moved _from_." This is not, of course, the only way of placing the
+counters, but it is the simplest solution to carry in the mind.
+
+There are several puzzles in this book that the reader will find lend
+themselves readily to this method.
+
+
+342.--THE MANDARIN'S PUZZLE.
+
+The rather perplexing point that the solver has to decide for himself in
+attacking this puzzle is whether the shaded numbers (those that are
+shown in their right places) are mere dummies or not. Ninety-nine
+persons out of a hundred might form the opinion that there can be no
+advantage in moving any of them, but if so they would be wrong.
+
+The shortest solution without moving any shaded number is in thirty-two
+moves. But the puzzle can be solved in thirty moves. The trick lies in
+moving the 6, or the 15, on the second move and replacing it on the
+nineteenth move. Here is the solution: 2, 6, 13, 4, 1, 21, 4, 1, 10, 2,
+21, 10, 2, 5, 22, 16, 1, 13, 6, 19, 11, 2, 5, 22, 16, 5, 13, 4, 10, 21.
+Thirty moves.
+
+
+343.--EXERCISE FOR PRISONERS.
+
+There are eighty different arrangements of the numbers in the form of a
+perfect knight's path, but only forty of these can be reached without
+two men ever being in a cell at the same time. Two is the greatest
+number of men that can be given a complete rest, and though the knight's
+path can be arranged so as to leave either 7 and 13, 8 and 13, 5 and 7,
+or 5 and 13 in their original positions, the following four
+arrangements, in which 7 and 13 are unmoved, are the only ones that can
+be reached under the moving conditions. It therefore resolves itself
+into finding the fewest possible moves that will lead up to one of these
+positions. This is certainly no easy matter, and no rigid rules can be
+laid down for arriving at the correct answer. It is largely a matter for
+individual judgment, patient experiment, and a sharp eye for revolutions
+and position.
+
+          A
+    +--+--+--+--+
+    | 6| 1|10|15|
+    +--+--+--+--+
+    | 9|12| 7| 4|
+    +--+--+--+--+
+    | 2| 5|14|11|
+    +--+--+--+--+
+    |13| 8| 3|**|
+    +--+--+--+--+
+
+          B
+    +--+--+--+--+
+    | 6| 1|10|15|
+    +--+--+--+--+
+    |11|14| 7| 4|
+    +--+--+--+--+
+    | 2| 5|12| 9|
+    +--+--+--+--+
+    |13| 8| 3|**|
+    +--+--+--+--+
+
+          C
+    +--+--+--+--+
+    | 6| 9| 4|15|
+    +--+--+--+--+
+    | 1|12| 7|10|
+    +--+--+--+--+
+    | 8| 5|14| 3|
+    +--+--+--+--+
+    |13| 2|11|**|
+    +--+--+--+--+
+
+          D
+    +--+--+--+--+
+    | 6|11| 4|15|
+    +--+--+--+--+
+    | 1|14| 7|10|
+    +--+--+--+--+
+    | 8| 5|12| 3|
+    +--+--+--+--+
+    |13| 2| 9|**|
+    +--+--+--+--+
+
+[Illustration: A, B, C, D]
+
+As a matter of fact, the position C can be reached in as few as
+sixty-six moves in the following manner: 12, 11, 15, 12, 11, 8, 4, 3, 2,
+6, 5, 1, 6, 5, 10, 15, 8, 4, 3, 2, 5, 10, 15, 8, 4, 3, 2, 5, 10, 15, 8,
+4, 12, 11, 3, 2, 5, 10, 15, 6, 1, 8, 4, 9, 8, 1, 6, 4, 9, 12, 2, 5, 10,
+15, 4, 9, 12, 2, 5, 3, 11, 14, 2, 5, 14, 11 = 66 moves. Though this is
+the shortest that I know of, and I do not think it can be beaten, I
+cannot state positively that there is not a shorter way yet to be
+discovered. The most tempting arrangement is certainly A; but things
+are not what they seem, and C is really the easiest to reach.
+
+If the bottom left-hand corner cell might be left vacant, the following
+is a solution in forty-five moves by Mr. R. Elrick: 15, 11, 10, 9, 13,
+14, 11, 10, 7, 8, 4, 3, 8, 6, 9, 7, 12, 4, 6, 9, 5, 13, 7, 5, 13, 1, 2,
+13, 5, 7, 1, 2, 13, 8, 3, 6, 9, 12, 7, 11, 14, 1, 11, 14, 1. But every
+man has moved.
+
+
+344.--THE KENNEL PUZZLE.
+
+The first point is to make a choice of the most promising knight's
+string and then consider the question of reaching the arrangement in the
+fewest moves. I am strongly of opinion that the best string is the one
+represented in the following diagram, in which it will be seen that each
+successive number is a knight's move from the preceding one, and that
+five of the dogs (1, 5, 10, 15, and 20) never leave their original
+kennels.
+
+    +-----+------+------+------+------+
+    |1    |2     |3     |4     |5     |
+    |     |      |      |      |      |
+    |   1 |  18  |   9  |  14  |   5  |
+    |     |      |      |      |      |
+    +-----+------+------+------+------+
+    |6    |7     |8     |9     |10    |
+    |     |      |      |      |      |
+    |   8 |  13  |   4  |  19  |  10  |
+    |     |      |      |      |      |
+    +-----+------+------+------+------+
+    |11   |12    |13    |14    |15    |
+    |     |      |      |      |      |
+    |  17 |   2  |  11  |   6  |  15  |
+    |     |      |      |      |      |
+    +-----+------+------+------+------+
+    |16   |17    |18    |19    |20    |
+    |     |      |      |      |      |
+    |  12 |   7  |  16  |   3  |  20  |
+    |     |      |      |      |      |
+    +-----+------+------+------+------+
+    |21   |22    |23    |24    |25    |
+    |     |      |      |      |      |
+    |     |      |      |      |      |
+    |     |      |      |      |      |
+    +-----+------+------+------+------+
+
+[Illustration]
+
+This position may be arrived at in as few as forty-six moves, as
+follows: 16--21, 16--22, 16--23, 17--16, 12--17, 12--22, 12--21,7--12,
+7--17, 7--22, 11--12, 11--17, 2--7, 2--12, 6--11, 8--7, 8--6, 13--8,
+18--13, 11--18, 2--17, 18--12, 18--7, 18--2, 13--7, 3--8, 3--13, 4--3,
+4--8, 9--4, 9--3, 14--9, 14--4, 19--14, 19--9, 3--14, 3--19, 6--12,
+6--13, 6--14, 17--11, 12--16, 2--12, 7--17, 11--13, 16--18 = 46 moves. I
+am, of course, not able to say positively that a solution cannot be
+discovered in fewer moves, but I believe it will be found a very hard
+task to reduce the number.
+
+
+345.--THE TWO PAWNS.
+
+Call one pawn A and the other B. Now, owing to that optional first move,
+either pawn may make either 5 or 6 moves in reaching the eighth square.
+There are, therefore, four cases to be considered: (1) A 6 moves and B 6
+moves; (2) A 6 moves and B 5 moves; (3) A 5 moves and B 6 moves; (4) A 5
+moves and B 5 moves. In case (1) there are 12 moves, and we may select
+any 6 of these for A. Therefore 7x8x9x10x11x12 divided by 1x2x3x4x5x6
+gives us the number of variations for this case--that is, 924. Similarly
+for case (2), 6 selections out of 11 will be 462; in case (3), 5
+selections out of 11 will also be 462; and in case (4), 5 selections out
+of 10 will be 252. Add these four numbers together and we get 2,100,
+which is the correct number of different ways in which the pawns may
+advance under the conditions. (See No. 270, on p. 204.)
+
+
+346.--SETTING THE BOARD.
+
+The White pawns may be arranged in 40,320 ways, the White rooks in 2
+ways, the bishops in 2 ways, and the knights in 2 ways. Multiply these
+numbers together, and we find that the White pieces may be placed in
+322,560 different ways. The Black pieces may, of course, be placed in
+the same number of ways. Therefore the men may be set up in 322,560 x
+322,560 = 104,044,953,600 ways. But the point that nearly everybody
+overlooks is that the board may be placed in two different ways for
+every arrangement. Therefore the answer is doubled, and is
+208,089,907,200 different ways.
+
+
+347.--COUNTING THE RECTANGLES.
+
+There are 1,296 different rectangles in all, 204 of which are squares,
+counting the square board itself as one, and 1,092 rectangles that are
+not squares. The general formula is that a board of n squared squares
+contains ((n squared + n) squared)/4 rectangles, of which (2n cubed + 3n squared + n)/6 are
+squares and (3n^4 + 2n cubed - 3n squared - 2n)/12 are rectangles that are not
+squares. It is curious and interesting that the total number of
+rectangles is always the square of the triangular number whose side is
+n.
+
+
+348.--THE ROOKERY.
+
+The answer involves the little point that in the final position the
+numbered rooks must be in numerical order in the direction contrary to
+that in which they appear in the original diagram, otherwise it cannot
+be solved. Play the rooks in the following order of their numbers. As
+there is never more than one square to which a rook can move (except on
+the final move), the notation is obvious--5, 6, 7, 5, 6, 4, 3, 6, 4, 7,
+5, 4, 7, 3, 6, 7, 3, 5, 4, 3, 1, 8, 3, 4, 5, 6, 7, 1, 8, 2, 1, and rook
+takes bishop, checkmate. These are the fewest possible
+moves--thirty-two. The Black king's moves are all forced, and need not
+be given.
+
+
+349.--STALEMATE.
+
+
+Working independently, the same position was arrived at by Messrs. S.
+Loyd, E.N. Frankenstein, W.H. Thompson, and myself. So the following may
+be accepted as the best solution possible to this curious problem :--
+
+        White.       Black.
+     1. P--Q4     1. P--K4
+     2. Q--Q3     2. Q--R5
+     3. Q--KKt3   3. B--Kt5 ch
+     4. Kt--Q2    4. P--QR4
+     5. P--R4     5. P--Q3
+     6. P--R3     6. B--K3
+     7. R--R3     7. P--KB4
+     8. Q--R2     8. P--B4
+     9. R--KKt3   9. B--Kt6
+    10. P--QB4   10. P--B5
+    11. P--B3    11. P--K5
+    12. P--Q5    12. P--K6
+
+And White is stalemated.
+
+We give a diagram of the curious position arrived at. It will be seen
+that not one of White's pieces may be moved.
+
+[Illustration]
+
+    +-+-+-+-+-+-+-+-+
+    |r|n| | |k| |n|r|
+    +-+-+-+-+-+-+-+-+
+    | |p| | | | |p|p|
+    +-+-+-+-+-+-+-+-+
+    | | | |p| | | | |
+    +-+-+-+-+-+-+-+-+
+    |p| |p|P| | | | |
+    +-+-+-+-+-+-+-+-+
+    |P|b|P| | |p| |q|
+    +-+-+-+-+-+-+-+-+
+    | |b| | |p|P|R|P|
+    +-+-+-+-+-+-+-+-+
+    | |P| |N|P| |P|Q|
+    +-+-+-+-+-+-+-+-+
+    | | |B| |K|B|N|R|
+    +-+-+-+-+-+-+-+-+
+
+
+350.--THE FORSAKEN KING.
+
+Play as follows:--
+
+       White.            Black.
+    1. P to K 4th     1. Any move
+    2. Q to Kt 4th    2. Any move except on KB file (a)
+    3. Q to Kt 7th    3. K moves to royal row
+    4. B to Kt 5th    4. Any move
+    5. Mate in two moves
+                   If 3. K other than to royal row
+    4. P to Q 4th     4. Any move
+    5. Mate in two moves
+               (a) If 2. Any move on KB file
+    3. Q to Q 7th     3. K moves to royal row
+    4. P to Q Kt 3rd  4. Any move
+    5. Mate in two moves
+                   If 3. K other than to royal row
+    4. P to Q 4th     4. Any move
+    5. Mate in two moves
+
+Of course, by "royal row" is meant the row on which the king originally
+stands at the beginning of a game. Though, if Black plays badly, he may,
+in certain positions, be mated in fewer moves, the above provides for
+every variation he can possibly bring about.
+
+
+351.--THE CRUSADER.
+
+        White.                    Black.
+     1. Kt to QB 3rd           1. P to Q 4th
+     2. Kt takes QP            2. Kt to QB 3rd
+     3. Kt takes KP            3. P to KKt 4th
+     4. Kt takes B             4. Kt to KB 3rd
+     5. Kt takes P             5. Kt to K 5th
+     6. Kt takes Kt            6. Kt to B 6th
+     7. Kt takes Q             7. R to KKt sq
+     8. Kt takes BP            8. R to KKt 3rd
+     9. Kt takes P             9. R to K 3rd
+    10. Kt takes P            10. Kt to Kt 8th
+    11. Kt takes B            11. R to R 6th
+    12. Kt takes R            12. P to Kt 4th
+    13. Kt takes P (ch)       13. K to B 2nd
+    14. Kt takes P            14. K to Kt 3rd
+    15. Kt takes R            15. K to R 4th
+    16. Kt takes Kt           16. K to R 5th
+        White now mates in three moves.
+    17. P to Q 4th            17. K to R 4th
+    18. Q to Q 3rd            18. K moves
+    19. Q to KR 3rd (mate)
+                           If 17. K to Kt 5th
+    18. P to K 4th (dis. ch)  18. K moves
+    19. P to KKt 3rd (mate)
+
+The position after the sixteenth move, with the mate in three moves, was
+first given by S. Loyd in _Chess Nuts_.
+
+
+352.--IMMOVABLE PAWNS.
+
+     1. Kt to KB 3
+     2. Kt to KR 4
+     3. Kt to Kt 6
+     4. Kt takes R
+     5. Kt to Kt 6
+     6. Kt takes B
+     7. K takes Kt
+     8. Kt to QB 3
+     9. Kt to R 4
+    10. Kt to Kt 6
+    11. Kt takes R
+    12. Kt to Kt 6
+    13. Kt takes B
+    14. Kt to Q 6
+    15. Q to K sq
+    16. Kt takes Q
+    17. K takes Kt, and the position is reached.
+
+Black plays precisely the same moves as White, and therefore we give one
+set of moves only. The above seventeen moves are the fewest possible.
+
+
+353.--THIRTY-SIX MATES.
+
+Place the remaining eight White pieces thus: K at KB 4th, Q at QKt 6th,
+R at Q 6th, R at KKt 7th, B at Q 5th, B at KR 8th, Kt at QR 5th, and Kt
+at QB 5th. The following mates can then be given:--
+
+    By discovery from Q            8
+    By discovery from R at Q 6th  13
+    By discovery from B at R 8th  11
+    Given by Kt at R 5th           2
+    Given by pawns                 2
+                                  --
+       Total                      36
+
+Is it possible to construct a position in which more than thirty-six
+different mates on the move can be given? So far as I know, nobody has
+yet beaten my arrangement.
+
+
+354.--AN AMAZING DILEMMA.
+
+Mr Black left his king on his queen's knight's 7th, and no matter what
+piece White chooses for his pawn, Black cannot be checkmated. As we
+said, the Black king takes no notice of checks and never moves. White
+may queen his pawn, capture the Black rook, and bring his three pieces
+up to the attack, but mate is quite impossible. The Black king cannot be
+left on any other square without a checkmate being possible.
+
+The late Sam Loyd first pointed out the peculiarity on which this puzzle
+is based.
+
+
+355.--CHECKMATE!
+
+Remove the White pawn from B 6th to K 4th and place a Black pawn on
+Black's KB 2nd. Now, White plays P to K 5th, check, and Black must play
+P to B 4th. Then White plays P takes P _en passant_, checkmate. This was
+therefore White's last move, and leaves the position given. It is the
+only possible solution.
+
+
+356.--QUEER CHESS.
+
+    +-+-+-+-+-+-+-+-+
+    | | | | | | | | |
+    +-+-+-+-+-+-+-+-+
+    | | |R|k|R|N| | |
+    +-+-+-+-+-+-+-+-+
+    | | | | | | | | |
+    +-+-+-+-+-+-+-+-+
+
+If you place the pieces as follows (where only a portion of the board is
+given, to save space), the Black king is in check, with no possible move
+open to him. The reader will now see why I avoided the term "checkmate,"
+apart from the fact that there is no White king. The position is
+impossible in the game of chess, because Black could not be given check
+by both rooks at the same time, nor could he have moved into check on
+his last move.
+
+I believe the position was first published by the late S. Loyd.
+
+
+357.--ANCIENT CHINESE PUZZLE.
+
+Play as follows:--
+
+    1. R--Q 6
+    2. K--R 7
+    3. R (R 6)--B 6 (mate).
+
+Black's moves are forced, so need not be given.
+
+
+358.--THE SIX PAWNS.
+
+The general formula for six pawns on all squares greater than 2 squared is
+this: Six times the square of the number of combinations of n things
+taken three at a time, where n represents the number of squares on the
+side of the board. Of course, where n is even the unoccupied squares
+in the rows and columns will be even, and where n is odd the number of
+squares will be odd. Here n is 8, so the answer is 18,816 different
+ways. This is "The Dyer's Puzzle" (_Canterbury Puzzles_, No. 27) in
+another form. I repeat it here in order to explain a method of solving
+that will be readily grasped by the novice. First of all, it is evident
+that if we put a pawn on any line, we must put a second one in that line
+in order that the remainder may be even in number. We cannot put four or
+six in any row without making it impossible to get an even number in all
+the columns interfered with. We have, therefore, to put two pawns in
+each of three rows and in each of three columns. Now, there are just six
+schemes or arrangements that fulfil these conditions, and these are
+shown in Diagrams A to F, inclusive, on next page.
+
+[Illustration]
+
+I will just remark in passing that A and B are the only distinctive
+arrangements, because, if you give A a quarter-turn, you get F; and if
+you give B three quarter-turns in the direction that a clock hand
+moves, you will get successively C, D, and E. No matter how you may
+place your six pawns, if you have complied with the conditions of the
+puzzle they will fall under one of these arrangements. Of course it
+will be understood that mere expansions do not destroy the essential
+character of the arrangements. Thus G is only an expansion of form A.
+The solution therefore consists in finding the number of these
+expansions. Supposing we confine our operations to the first three
+rows, as in G, then with the pairs a and b placed in the first and
+second columns the pair c may be disposed in any one of the remaining
+six columns, and so give six solutions. Now slide pair b into the
+third column, and there are five possible positions for c. Slide b
+into the fourth column, and c may produce four new solutions. And so
+on, until (still leaving a in the first column) you have b in the
+seventh column, and there is only one place for c--in the eighth
+column. Then you may put a in the second column, b in the third, and c
+in the fourth, and start sliding c and b as before for another series
+of solutions.
+
+We find thus that, by using form A alone and confining our operations to
+the three top rows, we get as many answers as there are combinations of
+8 things taken 3 at a time. This is (8 x 7 x 6)/(1 x 2 x 3) = 56. And it
+will at once strike the reader that if there are 56 different ways of
+electing the columns, there must be for each of these ways just 56 ways
+of selecting the rows, for we may simultaneously work that "sliding"
+process downwards to the very bottom in exactly the same way as we have
+worked from left to right. Therefore the total number of ways in which
+form A may be applied is 56 x 6 = 3,136. But there are, as we have seen,
+six arrangements, and we have only dealt with one of these, A. We must,
+therefore, multiply this result by 6, which gives us 3,136 x 6 = 18,816,
+which is the total number of ways, as we have already stated.
+
+
+359.--COUNTER SOLITAIRE.
+
+Play as follows: 3--11, 9--10, 1--2, 7--15, 8--16, 8--7, 5--13, 1--4,
+8--5, 6--14, 3--8, 6--3, 6--12, 1--6, 1--9, and all the counters will
+have been removed, with the exception of No. 1, as required by the
+conditions.
+
+
+360.--CHESSBOARD SOLITAIRE.
+
+Play as follows: 7--15, 8--16, 8--7, 2--10, 1--9, 1--2, 5--13, 3--4,
+6--3, 11--1, 14--8, 6--12, 5--6, 5--11, 31--23, 32--24, 32--31, 26--18,
+25--17, 25--26, 22--32, 14--22, 29--21, 14--29, 27--28, 30--27, 25--14,
+30--20, 25--30, 25--5. The two counters left on the board are 25 and
+19--both belonging to the same group, as stipulated--and 19 has never
+been moved from its original place.
+
+I do not think any solution is possible in which only one counter is
+left on the board.
+
+
+361.--THE MONSTROSITY.
+
+        White          Black,
+     1. P to KB 4      P to QB 3
+     2. K to B 2       Q to R 4
+     3. K to K 3       K to Q sq
+     4. P to B 5       K to B 2
+     5. Q to K sq      K to Kt 3
+     6. Q to Kt 3      Kt to QR 3
+     7. Q to Kt 8      P to KR 4
+     8. Kt to KB 3     R to R 3
+     9. Kt to K 5      R to Kt 3
+    10. Q takes B      R to Kt 6, ch
+    11. P takes R      K to Kt 4
+    12. R to R 4       P to B 3
+    13. R to Q 4       P takes Kt
+    14. P to QKt 4     P takes R, ch
+    15. K to B 4       P to R 5
+    16. Q to K 8       P to R 6
+    17. Kt to B 3, ch  P takes Kt
+    18. B to R 3       P to R 7
+    19. R to Kt sq     P to R 8 (Q)
+    20. R to Kt 2      P takes R
+    21. K to Kt 5      Q to KKt 8
+    22. Q to R 5       K to R 5
+    23. P to Kt 5      R to B sq
+    24. P to Kt 6      R to B 2
+    25. P takes R      P to Kt 8 (B)
+    26. P to B 8 (R)   Q to B 2
+    27. B to Q 6       Kt to Kt 5
+    28. K to Kt 6      K to R 6
+    29. R to R 8       K to Kt 7
+    30. P to R 4       Q (Kt 8) to Kt 3
+    31. P to R 5       K to B 8
+    32. P takes Q      K to Q 8
+    33. P takes Q      K to K 8
+    34. K to B 7       Kt to KR 3, ch
+    35. K to K 8       B to R 7
+    36. P to B 6       B to Kt sq
+    37. P to B 7       K takes B
+    38. P to B 8 (B)   Kt to Q 4
+    39. B to Kt 8      Kt to B 3, ch
+    40. K to Q 8       Kt to K sq
+    41. P takes Kt (R) Kt to B 2, ch
+    42. K to B 7       Kt to Q sq
+    43. Q to B 7, ch   K to Kt 8
+
+And the position is reached.
+
+The order of the moves is immaterial, and this order may be greatly
+varied. But, although many attempts have been made, nobody has succeeded
+in reducing the number of my moves.
+
+
+362.--THE WASSAIL BOWL.
+
+The division of the twelve pints of ale can be made in eleven
+manipulations, as below. The six columns show at a glance the quantity
+of ale in the barrel, the five-pint jug, the three-pint jug, and the
+tramps X, Y, and Z respectively after each manipulation.
+
+        Barrel. 5-pint. 3-pint.    X.       Y.       Z.
+
+        7   ..   5   ..   0   ..   0   ..   0   ..   0
+        7   ..   2   ..   3   ..   0   ..   0   ..   0
+        7   ..   0   ..   3   ..   2   ..   0   ..   0
+        7   ..   3   ..   0   ..   2   ..   0   ..   0
+        4   ..   3   ..   3   ..   2   ..   0   ..   0
+        0   ..   3   ..   3   ..   2   ..   4   ..   0
+        0   ..   5   ..   1   ..   2   ..   4   ..   0
+        0   ..   5   ..   0   ..   2   ..   4   ..   1
+        0   ..   2   ..   3   ..   2   ..   4   ..   1
+        0   ..   0   ..   3   ..   4   ..   4   ..   1
+        0   ..   0   ..   0   ..   4   ..   4   ..   4
+
+And each man has received his four pints of ale.
+
+
+363.--THE DOCTOR'S QUERY.
+
+The mixture of spirits of wine and water is in the proportion of 40 to
+1, just as in the other bottle it was in the proportion of 1 to 40.
+
+
+
+364.--THE BARREL PUZZLE.
+
+[Illustration: Figs. 1, 2, and 3]
+
+All that is necessary is to tilt the barrel as in Fig. 1, and if the
+edge of the surface of the water exactly touches the lip a at the same
+time that it touches the edge of the bottom b, it will be just half
+full. To be more exact, if the bottom is an inch or so from the ground,
+then we can allow for that, and the thickness of the bottom, at the top.
+If when the surface of the water reached the lip a it had risen to the
+point c in Fig. 2, then it would be more than half full. If, as in
+Fig. 3, some portion of the bottom were visible and the level of the
+water fell to the point d, then it would be less than half full.
+
+This method applies to all symmetrically constructed vessels.
+
+
+
+365.--NEW MEASURING PUZZLE.
+
+The following solution in eleven manipulations shows the contents of
+every vessel at the start and after every manipulation:--
+
+    10-quart. 10-quart. 5-quart.  4-quart.
+
+       10   ..   10   ..   0   ..   0
+        5   ..   10   ..   5   ..   0
+        5   ..   10   ..   1   ..   4
+        9   ..   10   ..   1   ..   0
+        9   ..    6   ..   1   ..   4
+        9   ..    7   ..   0   ..   4
+        9   ..    7   ..   4   ..   0
+        9   ..    3   ..   4   ..   4
+        9   ..    3   ..   5   ..   3
+        9   ..    8   ..   0   ..   3
+        4   ..    8   ..   5   ..   3
+        4   ..   10   ..   3   ..   3
+
+
+
+366.--THE HONEST DAIRYMAN.
+
+Whatever the respective quantities of milk and water, the relative
+proportion sent to London would always be three parts of water to one of
+milk. But there are one or two points to be observed. There must
+originally be more water than milk, or there will be no water in A to
+double in the second transaction. And the water must not be more than
+three times the quantity of milk, or there will not be enough liquid in
+B to effect the second transaction. The third transaction has no effect
+on A, as the relative proportions in it must be the same as after the
+second transaction. It was introduced to prevent a quibble if the
+quantity of milk and water were originally the same; for though double
+"nothing" would be "nothing," yet the third transaction in such a case
+could not take place.
+
+
+
+367.--WINE AND WATER.
+
+The wine in small glass was one-sixth of the total liquid, and the wine
+in large glass two-ninths of total. Add these together, and we find that
+the wine was seven-eighteenths of total fluid, and therefore the water
+eleven-eighteenths.
+
+
+
+368.--THE KEG OF WINE.
+
+The capacity of the jug must have been a little less than three gallons.
+To be more exact, it was 2.93 gallons.
+
+
+
+369.--MIXING THE TEA.
+
+There are three ways of mixing the teas. Taking them in the order of
+quality, 2s. 6d., 2s. 3d., 1s. 9p., mix 16 lbs., 1 lb., 3 lbs.; or 14
+lbs., 4 lbs., 2 lbs.; or 12 lbs., 7 lbs., 1 lb. In every case the
+twenty pounds mixture should be worth 2s. 41/2d. per pound; but the last
+case requires the smallest quantity of the best tea, therefore it is
+the correct answer.
+
+
+370.--A PACKING PUZZLE.
+
+On the side of the box, 14 by 22+4/5, we can arrange 13 rows containing
+alternately 7 and 6 balls, or 85 in all. Above this we can place another
+layer consisting of 12 rows of 7 and 6 alternately, or a total of 78. In
+the length of 24+9/10 inches 15 such layers may be packed, the alternate
+layers containing 85 and 78 balls. Thus 8 times 85 added to 7 times 78
+gives us 1,226 for the full contents of the box.
+
+
+371.--GOLD PACKING IN RUSSIA.
+
+The box should be 100 inches by 100 inches by 11 inches deep, internal
+dimensions. We can lay flat at the bottom a row of eight slabs,
+lengthways, end to end, which will just fill one side, and nine of these
+rows will dispose of seventy-two slabs (all on the bottom), with a space
+left over on the bottom measuring 100 inches by 1 inch by 1 inch. Now
+make eleven depths of such seventy-two slabs, and we have packed 792,
+and have a space 100 inches by 1 inch by 11 inches deep. In this we may
+exactly pack the remaining eight slabs on edge, end to end.
+
+
+372.--THE BARRELS OF HONEY.
+
+The only way in which the barrels could be equally divided among the
+three brothers, so that each should receive his 31/2 barrels of honey
+and his 7 barrels, is as follows:--
+
+      Full.  Half-full. Empty.
+    A   3        1        3
+    B   2        3        2
+    C   2        3        2
+
+There is one other way in which the division could be made, were it not
+for the objection that all the brothers made to taking more than four
+barrels of the same description. Except for this difficulty, they might
+have given B his quantity in exactly the same way as A above, and then
+have left C one full barrel, five half-full barrels, and one empty
+barrel. It will thus be seen that in any case two brothers would have to
+receive their allowance in the same way.

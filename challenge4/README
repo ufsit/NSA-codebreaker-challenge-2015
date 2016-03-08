@@ -1,0 +1,9 @@
+It is now your final mission. We have learned from our agents that 
+public keys may have already been distributed to our advisaries.
+
+We need you to write an exploit that tricks the codebreaker3 binary into 
+thinking that it has a valid message without a valid key.
+
+Encode the following message into the template file from the last challenge. Make sure the decrypted message is valid with any key!
+
+[Message: SENSITIVE MESSAGE: Leadership has arranged a meeting with the local authorities to discuss partnering opportunities. As a high-ranking member in our organization, your attendance is requested. Meet at the city police station at 18:00. Be discreet, and come unarmed as to not draw attention. Mention the pass code qb9rfop68mtmeq7uea5c at the front desk to be escorted in.]

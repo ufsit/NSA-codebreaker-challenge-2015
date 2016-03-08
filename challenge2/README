@@ -1,0 +1,12 @@
+Thanks to your outstanding work, our last mission was a success.
+
+Unfotunately, although we now have the capability to decrypt messages with 
+a valid key, our agents have recently intercepted a message where a valid 
+key was not found.
+
+It is believed that this message has more mission critical information. We
+need you to figure out how to decrypt the provided message by reverse 
+engineering the binary with an invalid key.
+
+[Win this challenge by getting the original executable to print the message
+hidden in tier2_msg.txt]
